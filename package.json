@@ -1,0 +1,14 @@
+{
+  "name": "sample-v1sdk-app",
+  "version": "1.0.0",
+  "description": "Sample app using v1sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "v1sdk"
+  ],
+  "author": "walkerrandolphsmith",
+  "license": "ISC"
+}
