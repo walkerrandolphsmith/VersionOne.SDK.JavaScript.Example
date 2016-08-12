@@ -1,4 +1,14 @@
 var express = require('express');
+var v1 = require('./V1Server');
+
+v1.query({
+    'from': 'PrimaryWorkitem',
+    'select': [
+        'Name'
+    ]
+}).then(assets => {
+    console.log(assets);
+});
 
 const app = express();
 
