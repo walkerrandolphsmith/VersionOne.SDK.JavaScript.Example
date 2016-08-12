@@ -12,6 +12,8 @@
   "author": "walkerrandolphsmith",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "axios": "^0.13.1",
+    "express": "^4.14.0",
+    "v1sdk": "^2.1.0"
   }
 }
